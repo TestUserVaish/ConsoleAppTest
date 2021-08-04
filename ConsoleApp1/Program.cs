@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! This is my first  git change.");
+            Console.WriteLine("Hello World! This is my first  git.");
         }
     }
 }
